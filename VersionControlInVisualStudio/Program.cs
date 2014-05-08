@@ -17,6 +17,7 @@ namespace VersionControlInVisualStudio
 
         static void foo()
         {
+            Console.WriteLine("test");
             Console.WriteLine("In foo()");
         }
     }
